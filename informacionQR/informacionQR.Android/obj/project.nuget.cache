@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I0IFA+raEXtKuLule6HtK0+IVJJjTYeSmAcfjISfuvnv7huSYbl58dPgKGyAO0/kf1u16Ix82LH+LKiR+KHELw==",
+  "success": true,
+  "projectFilePath": "C:\\ARCHIVOS LESLIE\\trabajos personales\\Mayo\\How to Create a C# MS Access Database Connection with Save, Update, Delete and Search -Full Tutorial\\informacionQR\\informacionQR\\informacionQR.Android\\informacionQR.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leslie\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Leslie\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\Leslie\\.nuget\\packages\\xamarin.forms\\5.0.0.2662\\xamarin.forms.5.0.0.2662.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FoHHN7tYhZQcfe2ZFd9veE3xelapxWT6sI/p4A8nZjcteF8ngfpp2BvzpslD7OmT/VxACMrd4xsSVu2Z9KXtKA==",
+  "success": true,
+  "projectFilePath": "C:\\ARCHIVOS LESLIE\\trabajos personales\\Mayo\\How to Create a C# MS Access Database Connection with Save, Update, Delete and Search -Full Tutorial\\informacionQR\\informacionQR\\informacionQR\\informacionQR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leslie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Leslie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Leslie\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Leslie\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\Leslie\\.nuget\\packages\\xamarin.forms\\5.0.0.2662\\xamarin.forms.5.0.0.2662.nupkg.sha512"
+  ],
+  "logs": []
+}
